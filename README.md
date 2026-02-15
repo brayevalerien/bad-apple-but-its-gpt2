@@ -4,6 +4,8 @@ This silly project aims at using the GPT-2 XL attention maps as "displays" to pl
 
 [![Bad Apple but it's GPT-2 XL Attention Maps](https://img.youtube.com/vi/UU14rQO6VzU/maxresdefault.jpg)](https://www.youtube.com/watch?v=UU14rQO6VzU)
 
+[Blog post with full technical writeup](https://brayevalerien.com/blog/bad-apple-but-its-gpt2/)
+
 # Setup and run this project
 > [!NOTE]
 > The following prerequisites are needed before installing this.
