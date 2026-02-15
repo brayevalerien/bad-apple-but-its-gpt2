@@ -1,0 +1,14 @@
+[project]
+name = "bad-apple-attention"
+version = "0.1.0"
+description = "Bad Apple but it's GPT-2 XL attention maps"
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "transformers",
+    "yt-dlp",
+    "matplotlib",
+    "tqdm",
+    "pillow",
+    "scipy",
+]
